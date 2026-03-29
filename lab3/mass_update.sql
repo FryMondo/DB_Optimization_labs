@@ -1,0 +1,1 @@
+UPDATE TEST_VACUUM SET salary = salary + 100 WHERE id > 0;
