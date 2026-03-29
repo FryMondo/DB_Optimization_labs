@@ -1,0 +1,1 @@
+EXPLAIN SELECT * FROM (VALUES (1, 'Test'), (2, 'Data')) AS t(id, val);

@@ -1,0 +1,1 @@
+EXPLAIN SELECT * FROM cities WHERE name LIKE '%San%';
