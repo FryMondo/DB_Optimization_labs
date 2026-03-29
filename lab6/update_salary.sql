@@ -1,0 +1,1 @@
+UPDATE employees SET salary = salary + 1000 WHERE id = 1;

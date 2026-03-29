@@ -1,0 +1,1 @@
+UPDATE cities SET name = 'New Kyiv' WHERE id = 1;
